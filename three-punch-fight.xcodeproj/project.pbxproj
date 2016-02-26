@@ -7,15 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A27F05D1C7F9FC100F64C9E /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A27F05C1C7F9FC100F64C9E /* Character.swift */; };
+		5A27F0611C7FABA400F64C9E /* BrownImg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A27F0601C7FABA400F64C9E /* BrownImg.swift */; };
+		5A27F0631C7FABC200F64C9E /* BrownUpImg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A27F0621C7FABC200F64C9E /* BrownUpImg.swift */; };
+		5A27F0651C7FABDB00F64C9E /* NinjaImg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A27F0641C7FABDB00F64C9E /* NinjaImg.swift */; };
+		5A27F0671C7FABF800F64C9E /* NinjaUpImg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A27F0661C7FABF800F64C9E /* NinjaUpImg.swift */; };
+		5A27F0691C7FBC2A00F64C9E /* BottomAttack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A27F0681C7FBC2900F64C9E /* BottomAttack.swift */; };
+		5A27F06B1C7FC04200F64C9E /* TopAttack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A27F06A1C7FC04200F64C9E /* TopAttack.swift */; };
+		5A27F06D1C7FDDCC00F64C9E /* BottomHealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A27F06C1C7FDDCA00F64C9E /* BottomHealth.swift */; };
+		5A27F06F1C7FDED700F64C9E /* TopHealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A27F06E1C7FDED700F64C9E /* TopHealth.swift */; };
 		5AB9A9FF1C7E5D5D005E9D75 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AB9A9FE1C7E5D5D005E9D75 /* AppDelegate.swift */; };
 		5AB9AA011C7E5D5D005E9D75 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AB9AA001C7E5D5D005E9D75 /* ViewController.swift */; };
 		5AB9AA041C7E5D5D005E9D75 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5AB9AA021C7E5D5D005E9D75 /* Main.storyboard */; };
 		5AB9AA071C7E5D5E005E9D75 /* three_punch_fight.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5AB9AA051C7E5D5E005E9D75 /* three_punch_fight.xcdatamodeld */; };
 		5AB9AA091C7E5D5E005E9D75 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AB9AA081C7E5D5E005E9D75 /* Assets.xcassets */; };
 		5AB9AA0C1C7E5D5E005E9D75 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5AB9AA0A1C7E5D5E005E9D75 /* LaunchScreen.storyboard */; };
+		5AB9AA141C7E6C1B005E9D75 /* Krungthep.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5AB9AA131C7E6C1B005E9D75 /* Krungthep.ttf */; };
+		5AB9AA211C7E98DF005E9D75 /* Stamina.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AB9AA201C7E98DF005E9D75 /* Stamina.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5A27F05C1C7F9FC100F64C9E /* Character.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
+		5A27F0601C7FABA400F64C9E /* BrownImg.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrownImg.swift; sourceTree = "<group>"; };
+		5A27F0621C7FABC200F64C9E /* BrownUpImg.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrownUpImg.swift; sourceTree = "<group>"; };
+		5A27F0641C7FABDB00F64C9E /* NinjaImg.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NinjaImg.swift; sourceTree = "<group>"; };
+		5A27F0661C7FABF800F64C9E /* NinjaUpImg.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NinjaUpImg.swift; sourceTree = "<group>"; };
+		5A27F0681C7FBC2900F64C9E /* BottomAttack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BottomAttack.swift; sourceTree = "<group>"; };
+		5A27F06A1C7FC04200F64C9E /* TopAttack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopAttack.swift; sourceTree = "<group>"; };
+		5A27F06C1C7FDDCA00F64C9E /* BottomHealth.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BottomHealth.swift; sourceTree = "<group>"; };
+		5A27F06E1C7FDED700F64C9E /* TopHealth.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopHealth.swift; sourceTree = "<group>"; };
 		5AB9A9FB1C7E5D5B005E9D75 /* three-punch-fight.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "three-punch-fight.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AB9A9FE1C7E5D5D005E9D75 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5AB9AA001C7E5D5D005E9D75 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +44,8 @@
 		5AB9AA081C7E5D5E005E9D75 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5AB9AA0B1C7E5D5E005E9D75 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5AB9AA0D1C7E5D5F005E9D75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5AB9AA131C7E6C1B005E9D75 /* Krungthep.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Krungthep.ttf; sourceTree = "<group>"; };
+		5AB9AA201C7E98DF005E9D75 /* Stamina.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Stamina.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +78,50 @@
 		5AB9A9FD1C7E5D5C005E9D75 /* three-punch-fight */ = {
 			isa = PBXGroup;
 			children = (
+				5AB9AA171C7E931C005E9D75 /* Controller */,
+				5AB9AA161C7E9318005E9D75 /* View */,
+				5AB9AA151C7E92BA005E9D75 /* Model */,
 				5AB9A9FE1C7E5D5D005E9D75 /* AppDelegate.swift */,
 				5AB9AA001C7E5D5D005E9D75 /* ViewController.swift */,
 				5AB9AA021C7E5D5D005E9D75 /* Main.storyboard */,
 				5AB9AA081C7E5D5E005E9D75 /* Assets.xcassets */,
 				5AB9AA0A1C7E5D5E005E9D75 /* LaunchScreen.storyboard */,
 				5AB9AA0D1C7E5D5F005E9D75 /* Info.plist */,
+				5AB9AA131C7E6C1B005E9D75 /* Krungthep.ttf */,
 				5AB9AA051C7E5D5E005E9D75 /* three_punch_fight.xcdatamodeld */,
 			);
 			path = "three-punch-fight";
+			sourceTree = "<group>";
+		};
+		5AB9AA151C7E92BA005E9D75 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				5AB9AA201C7E98DF005E9D75 /* Stamina.swift */,
+				5A27F05C1C7F9FC100F64C9E /* Character.swift */,
+				5A27F0601C7FABA400F64C9E /* BrownImg.swift */,
+				5A27F0621C7FABC200F64C9E /* BrownUpImg.swift */,
+				5A27F0641C7FABDB00F64C9E /* NinjaImg.swift */,
+				5A27F0661C7FABF800F64C9E /* NinjaUpImg.swift */,
+				5A27F0681C7FBC2900F64C9E /* BottomAttack.swift */,
+				5A27F06A1C7FC04200F64C9E /* TopAttack.swift */,
+				5A27F06C1C7FDDCA00F64C9E /* BottomHealth.swift */,
+				5A27F06E1C7FDED700F64C9E /* TopHealth.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		5AB9AA161C7E9318005E9D75 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		5AB9AA171C7E931C005E9D75 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,6 +184,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5AB9AA0C1C7E5D5E005E9D75 /* LaunchScreen.storyboard in Resources */,
+				5AB9AA141C7E6C1B005E9D75 /* Krungthep.ttf in Resources */,
 				5AB9AA091C7E5D5E005E9D75 /* Assets.xcassets in Resources */,
 				5AB9AA041C7E5D5D005E9D75 /* Main.storyboard in Resources */,
 			);
@@ -141,7 +199,17 @@
 			files = (
 				5AB9AA011C7E5D5D005E9D75 /* ViewController.swift in Sources */,
 				5AB9AA071C7E5D5E005E9D75 /* three_punch_fight.xcdatamodeld in Sources */,
+				5A27F0651C7FABDB00F64C9E /* NinjaImg.swift in Sources */,
+				5A27F0671C7FABF800F64C9E /* NinjaUpImg.swift in Sources */,
+				5A27F06D1C7FDDCC00F64C9E /* BottomHealth.swift in Sources */,
+				5A27F0611C7FABA400F64C9E /* BrownImg.swift in Sources */,
+				5AB9AA211C7E98DF005E9D75 /* Stamina.swift in Sources */,
+				5A27F0691C7FBC2A00F64C9E /* BottomAttack.swift in Sources */,
 				5AB9A9FF1C7E5D5D005E9D75 /* AppDelegate.swift in Sources */,
+				5A27F06F1C7FDED700F64C9E /* TopHealth.swift in Sources */,
+				5A27F06B1C7FC04200F64C9E /* TopAttack.swift in Sources */,
+				5A27F0631C7FABC200F64C9E /* BrownUpImg.swift in Sources */,
+				5A27F05D1C7F9FC100F64C9E /* Character.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,6 +359,7 @@
 				5AB9AA121C7E5D5F005E9D75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
